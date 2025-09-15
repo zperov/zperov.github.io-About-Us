@@ -1,6 +1,6 @@
 <html lang="en">
 	<head>
-		<title>This is where our About Us page will be listed <br><br><br>
+		<title>This is where our About Us page will be listed<br><br><br>
 		</title>
 	</head> 	
 	<body>
